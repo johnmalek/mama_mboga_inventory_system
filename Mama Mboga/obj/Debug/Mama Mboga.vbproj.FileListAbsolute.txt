@@ -1,0 +1,40 @@
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.vbprojAssemblyReference.cache
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.WelcomeForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.Resources.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.vbproj.GenerateResource.cache
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.vbproj.CoreCompileInputs.cache
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Mama Mboga.exe.config
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Mama Mboga.exe
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Mama Mboga.pdb
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Mama Mboga.xml
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.exe
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.xml
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.pdb
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.LoginForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.RegisterForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.DashboardForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.LoginWelcomeForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\UserControl1.g.vb
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga_Content.g.vb
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga_MarkupCompile.cache
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga_MarkupCompile.lref
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\UserControl1.baml
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.g.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama_Mboga.ReportsForm.resources
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\obj\Debug\Mama Mboga.vbproj.CopyComplete
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School Files\2.2\Application Programming I\Mama Mboga\Mama Mboga\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
